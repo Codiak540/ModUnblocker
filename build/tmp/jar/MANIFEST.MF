@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: modUnblocker
+MixinConfigs: modunblocker.mixins.json
+Implementation-Version: 1.0
+Specification-Vendor: Codiak
+Specification-Title: modunblocker
+Implementation-Timestamp: 2025-05-28T15:30:21-0300
+Specification-Version: 1
+Implementation-Vendor: Codiak
+

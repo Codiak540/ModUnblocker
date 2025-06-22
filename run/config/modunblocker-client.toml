@@ -1,0 +1,5 @@
+#List of mod IDs to hide from the server
+hidden_mods = ["modunblocker"]
+#if true: enable manual mode (manual mode uses the list, automatic will attempt to automatically match the modlist)
+manual_mode = false
+
