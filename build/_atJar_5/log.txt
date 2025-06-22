@@ -1,7 +1,0 @@
-Java Launcher: C:\Users\Your Worst Nightmare\.gradle\jdks\jdk8u442-b06\bin\java.exe
-Arguments: '--inJar, D:\Mods\modUnblocker\build\fg_cache\net\minecraftforge\forge\1.16.5-36.2.42\forge-1.16.5-36.2.42-injected.jar, --outJar, D:\Mods\modUnblocker\build\fg_cache\net\minecraftforge\forge\1.16.5-36.2.42_mapped_official_1.16.5\forge-1.16.5-36.2.42_mapped_official_1.16.5.jar, --logFile, accesstransform.log, --atFile, D:\Mods\modUnblocker\src\main\resources\META-INF\accesstransformer.cfg, --atFile, D:\Mods\modUnblocker\build\_atJar_5\parent_at.cfg'
-Classpath:
- - C:\Users\Your Worst Nightmare\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.2.1\accesstransformers-8.2.1-fatjar.jar
-Working directory: D:\Mods\modUnblocker\build\_atJar_5
-Main class: net.minecraftforge.accesstransformer.TransformerProcessor
-====================================

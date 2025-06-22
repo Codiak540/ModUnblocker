@@ -15,7 +15,7 @@ public class Modunblocker {
     public static List<String> mods = new ArrayList<>();
 
     // Directly reference a log4j logger.
-    private static final Logger LOGGER = LogManager.getLogger();
+    public static final Logger LOGGER = LogManager.getLogger();
 
     public Modunblocker() {
         ModLoadingContext.get().registerConfig(ModConfig.Type.CLIENT, Config.CLIENT_SPEC);

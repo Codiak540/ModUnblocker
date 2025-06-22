@@ -31,7 +31,7 @@ public class C2SModListMixin {
             this.mods.removeIf(hiddenMods::contains);
         }
         else {
-            System.out.println("[ModUnblocker] Attempting to use this modlist (Automatic mode)" + Modunblocker.mods);
+            Modunblocker.LOGGER.info("[ModUnblocker] Attempting to use this modlist (Automatic mode) {}", Modunblocker.mods);
             this.mods = Modunblocker.mods;
         }
     }
